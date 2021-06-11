@@ -1,2 +1,2 @@
 # HTML-CSS-Projects
-This file will contain a list of HTML & CC Projects I have completed!
+This is a portfolio file that I created. https://github.com/Whitatt/matthew_white.github.io.git
